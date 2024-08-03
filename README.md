@@ -38,3 +38,13 @@ The wonders of a 3D printed arm, a work of pure heart.
   /    | |||| |    \
  /     | |||| |     \
 /      |______|      \
+
+     O
+    /|\
+   / | \
+  /  |  \
+ O   O   O
+  \  |  /
+   \ | /
+    \|/
+     O
