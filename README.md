@@ -22,3 +22,19 @@ So let us celebrate this robotic art,
 With every line of code, a new start,
 In this world of technology, we impart,
 The wonders of a 3D printed arm, a work of pure heart.
+
+#draw ascii art of a robot
+        _____
+       /     \
+      | () () |
+       \  ^  /
+        |||||
+        |||||
+
+      _  ||||  _
+     | | |||| | |
+    /__| |||| |__\
+   /   | |||| |   \
+  /    | |||| |    \
+ /     | |||| |     \
+/      |______|      \
