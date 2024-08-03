@@ -1,5 +1,6 @@
 # 4DOF-Parallel-Robot-
 All of the control code for a 3d printed robot arm. 
+<<<<<<< HEAD
 Last updated 2024-08-92135
 #write a poem
 In the realm of code and wires,
@@ -26,3 +27,6 @@ So let us celebrate this creation,
 With admiration and fascination.
 For in this robot arm, we find,
 The beauty of technology, so kind.
+=======
+Last updated 20240803 MGN
+>>>>>>> 12a3ca4fcfb9ba691ebaf482f427dc306e1b2449
